@@ -14,3 +14,6 @@ Data Visualization: Scatter Plots, Box Plots, ANOVA Effect Size Charts
 
 #### Dataset Used
 Cars4u Dataset 
+
+
+![Project Preview](https://github.com/joshipj22/Cars4U-Market-Dynamics/blob/main/c4u.png?raw=true)
