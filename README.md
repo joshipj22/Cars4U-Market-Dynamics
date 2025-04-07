@@ -4,7 +4,7 @@
 
 ### View the full project on Kaggle
 **[Kaggle Notebook](https://www.kaggle.com/code/meincode/cars4u-market-dynamics)**
-
+![Project Preview](https://github.com/joshipj22/Cars4U-Market-Dynamics/blob/main/c4u.png?raw=true)
 ### Tech/Tools Used:
 Programming: Python (Pandas, NumPy, SciPy, Statsmodels, Seaborn, Matplotlib)
 
@@ -16,4 +16,4 @@ Data Visualization: Scatter Plots, Box Plots, ANOVA Effect Size Charts
 Cars4u Dataset 
 
 
-![Project Preview](https://github.com/joshipj22/Cars4U-Market-Dynamics/blob/main/c4u.png?raw=true)
+
